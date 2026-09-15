@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hallo, ich bin Daniel aka CPTDirtyCode 👋
 
-<!--
-**CPTDirtyCode/CPTDirtyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="images/Banner.png" alt="Daniel Banner" width=1200>
+</p>
 
-Here are some ideas to get you started:
+## 👨‍💻 Über mich
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ich befinde mich aktuell in einer Umschulung zum Fachinformatiker für Anwendungsentwicklung (IHK).
+
+Derzeit erweitere ich meine Kenntnisse in der Softwareentwicklung und arbeite regelmäßig an eigenen Projekten, um praktische Erfahrungen zu sammeln.
+
+Besonders interessieren mich:
+
+- Python
+- Anwendungsentwicklung
+- Automatisierung
+- Git & GitHub
+- Benutzeroberflächen
+- Frontend & Backend Development
+
+---
+
+## 🚀 Aktuelle Projekte
+
+### Aarakocra's Madness
+
+Ein selbst entwickeltes Text-Adventure-RPG in Python.
+
+Funktionen:
+
+- GUI mit CustomTkinter
+- danach refactored zu PySide6
+- Speicher- und Ladesystem
+- Verschiedene Story-Pfade
+- Minispiele
+- Eigene Grafiken und Designs
+
+---
+
+## 🛠️ Kenntnisse
+
+| Bereich | Kenntnisse |
+|----------|----------|
+| Programmiersprachen | Python |
+| Versionsverwaltung | Git, GitHub |
+| Web | HTML, CSS |
+| Betriebssysteme | Windows |
+| Entwicklungsumgebungen | PyCharm |
+
+---
+
+## 🎯 Mein Ziel
+
+Mein Ziel ist es, meine Umschulung erfolgreich abzuschließen und anschließend als Fachinformatiker für Anwendungsentwicklung tätig zu werden.
+
+Dabei möchte ich moderne Software entwickeln, neue Technologien kennenlernen und mich fachlich kontinuierlich weiterentwickeln.
+
+---
