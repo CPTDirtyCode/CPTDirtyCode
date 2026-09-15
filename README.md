@@ -1,7 +1,7 @@
 # Hallo, ich bin Daniel aka CPTDirtyCode 👋
 
 <p align="center">
-  <img src="images/Banner.png" alt="Daniel Banner" width=1200>
+  <img src="Images/Banner.png" alt="Daniel Banner" width=1200>
 </p>
 
 ## 👨‍💻 Über mich
